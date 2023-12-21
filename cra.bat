@@ -5,7 +5,7 @@ IF "%1" == "" (
      EXIT /B
 )
 
-git clone git@github.com:SegiH/React-Webpack5-Starter-App
+git clone https://github.com/SegiH/React-Webpack5-Starter-App
 
 rd /s /q React-Webpack5-Starter-App\.git
 
