@@ -6,7 +6,7 @@ if [ $# -ne 1 ]
     exit 1
 fi
 
-git clone git@github.com:SegiH/React-Webpack5-Starter-App
+git clone https://github.com/SegiH/React-Webpack5-Starter-App
 
 rm -rf React-Webpack5-Starter-App\.git
 
